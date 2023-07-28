@@ -9,7 +9,7 @@ Nikhil Mishra, Pieter Abbeel, Xi Chen, and Maximilan Sieb.
 In the proceedings of the IEEE International Conference on Robotics and Automation (IROS), 2023.
 ```
 
-Our dataset, COB-3D-v2, can be downloaded from the [COB-3D homepage](https://sites.google.com/view/cob-3d/).
+The dataset, COB-3D-v2, can be downloaded from our [project page](https://sites.google.com/view/fcon-packing/).
 
 The shape-completion model we proposed, F-CON, is implemented in `fcon_model.py`.
 
