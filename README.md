@@ -6,7 +6,7 @@ This repo contains the dataset and model proposed in our IROS 2023 paper:
 ```
 "Convolutional Occupancy Models for Dense Packing of Complex, Novel Objects".
 Nikhil Mishra, Pieter Abbeel, Xi Chen, and Maximilan Sieb.
-In the proceedings of the IEEE International Conference on Robotics and Automation (IROS), 2023.
+In the proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023.
 ```
 
 The dataset, COB-3D-v2, can be downloaded from our [project page](https://sites.google.com/view/fcon-packing/).
@@ -25,7 +25,7 @@ If you use COB-3D-v2 or F-CON in your work, please cite:
      title={Convolutional Occupancy Models for Dense Packing of Complex, Novel Objects},
      author={Nikhil Mishra and Pieter Abbeel and Xi Chen and Maximilian Sieb},
      year={2023},
-     booktitle={IEEE International Conference on Intelligent Robots and Systems},
+     booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
 }
 ```
 
